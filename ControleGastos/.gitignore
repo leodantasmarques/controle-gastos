@@ -1,0 +1,9 @@
+# Arquivos de build
+bin/
+obj/
+
+# Banco de dados SQLite
+*.db
+
+# Arquivos de configuração locais
+appsettings.Development.json
